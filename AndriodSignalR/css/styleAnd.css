@@ -1,0 +1,270 @@
+*{padding:0;margin:0;}
+body{background:#fe0000;font-family: 'Roboto', sans-serif;}
+.clear{clear:both;}
+.inr_wrpr{width:90%; margin:30% auto 15% auto;text-align:center;}
+.inr_wrpr h1{color:#fff;font-size:50px;font-weight:normal; }
+.logo_tab{width:85%;margin:0 auto;padding-top:198px;}
+.logo_tab img{width:100%;}
+.belowarea_tab {
+    bottom: 12%;
+    float: left;
+    position: absolute;
+    right: 12%;
+    width: 78%;
+}
+.belowarea_tab p {
+  color: #fff;
+  float: right;
+  font-size: 20px;
+  text-align: right;
+  width: 100%;
+}
+.belowarea_tab > img {
+  float: right;
+  margin-top:20px;
+}
+.inr_wrpr input[type="button"] {
+  background: none repeat scroll 0 0 #454545;
+  border: medium none;
+  box-shadow: 0 3px 2px #000;
+  color: #fff;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 138px 0;
+  padding: 15px 40px;
+}
+a.andriodbtn {
+  background: none repeat scroll 0 0 #454545;
+  border: medium none;
+  box-shadow: 0 3px 2px #000;
+  color: #fff;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10% 36%;
+  float:left;
+  width:20%;
+  padding: 2% 4%;
+  text-decoration:none;
+}
+
+.logo_tab.notp {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.logo_tab.notp.notp1 {
+  padding-top: 0;
+}
+.inr_wrpr.notp2 {
+	margin:15% auto 10%;
+}
+.logo_tab.notp.notp1 > img{
+	width:40%;
+}
+.tab_icon{width:100%;float:left;text-align:center; padding:115px 0;}
+.tab_textarea {
+  color: #fff;
+  float: left;
+  font-size: 60px;
+  width: 100%;
+  font-weight:300;
+}
+.top242{margin-top:242px;}
+.tab_footer {
+  background: none repeat scroll 0 0 #f1f1f1;
+  float: left;
+  padding: 10px 0;
+  width: 100%;
+  position:absolute;
+  bottom:0;
+}
+.ftr_wrpr{
+	width:90%;
+	margin:0px auto;
+}
+.ft_lft {
+  color: #404040;
+  float: left;
+  font-size: 20px;
+  width:50%;
+}
+.ft_ryt {
+  color: #404040;
+  float: right;
+  font-size: 20px;
+  font-weight: bold;
+  width:50%;
+  text-align:right;
+}
+.ft_ryt > img {
+  padding-right: 6px;
+  vertical-align: middle;
+}
+.green{color:#79ba00;}
+.ft_inr_wrpr {
+  float: left;
+  width: 100%;
+}
+.inr_wrpr.contract-page{
+	margin:25% auto 15% auto;
+}
+/*.tab_footer{
+	position:static;
+}
+.belowarea_tab{
+	position:static;
+	width:92%;
+	margin-top:10%;
+}
+.inr_wrpr{
+	margin:15% auto 7% auto;
+}*/
+
+/* Media css  */
+
+@media only screen and (min-width: 981px) 
+{
+.tab_footer{
+	position:static;
+}
+.belowarea_tab{
+	position:static;
+	width:92%;
+	margin-top:10%;
+}
+.inr_wrpr{
+	margin:15% auto 7% auto;
+}
+	
+}
+
+@media only screen and (min-width: 481px) and (max-width: 767px) 
+{
+	.inr_wrpr{
+		margin:10% auto 5% auto;
+	}
+	.inr_wrpr h1{
+		font-size:150%;
+}
+.logo_tab{
+	padding-top:10%;
+}
+.tab_footer{
+	position:static;
+}
+.belowarea_tab{
+	position:static;
+	width:92%;
+	margin-top:10%;
+}
+.inr_wrpr.contract-page{
+	margin:20% auto 10% auto;
+}
+.tab_icon{
+	padding:2% 0;
+}
+.tab_icon > img{
+	width:25%;
+}
+.tab_textarea{
+	font-size:150%;
+}
+
+}
+
+@media only screen and (min-width: 361px) and (max-width: 480px) 
+{
+	.inr_wrpr{
+		margin:10% auto 5% auto;
+	}
+	.inr_wrpr h1{
+		font-size:150%;
+}
+.logo_tab{
+	padding-top:10%;
+}
+.belowarea_tab p{
+	font-size:100%;
+}
+.ft_lft{
+	font-size:100%;
+}
+.ft_ryt{
+	font-size:100%;
+}
+.belowarea_tab{
+	bottom:20%;
+}
+.belowarea_tab > img{
+	width:70%;
+}
+.tab_footer{
+	position:static;
+}
+.belowarea_tab{
+	position:static;
+	width:92%;
+	margin-top:10%;
+}
+.inr_wrpr.contract-page{
+	margin:15% auto 5% auto;
+}
+.tab_icon{
+	padding:2% 0;
+}
+.tab_icon > img{
+	width:25%;
+}
+.tab_textarea{
+	font-size:150%;
+}
+
+}
+
+
+@media only screen and (max-width: 360px) 
+{
+	.inr_wrpr h1{
+		font-size:150%;
+}
+.logo_tab{
+	padding-top:10%;
+}
+.belowarea_tab p{
+	font-size:100%;
+}
+.ft_lft{
+	font-size:100%;
+	max-width:100%;
+	word-wrap:break-word;
+}
+.ft_ryt{
+	font-size:100%;
+}
+.belowarea_tab{
+	bottom:20%;
+}
+.belowarea_tab > img{
+	width:70%;
+}
+a.andriodbtn{
+	width:40%;
+	font-size:100%;
+	margin:10% 30%;
+	padding:2%;
+}
+.inr_wrpr.contract-page{
+	margin:15% auto 5% auto;
+}
+.tab_icon{
+	padding:2% 0;
+}
+.tab_icon > img{
+	width:25%;
+}
+.tab_textarea{
+	font-size:150%;
+}
+
+}

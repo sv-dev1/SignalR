@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<SignalR>
+  <Comments>
+    <Device_id>357196059530050</Device_id>
+    <Registration_id>APA91bFE78VIvwcN0cSULSBrlODVtMcQoVwo9QFD6mT2xTKC_ZwSk_sv6ennbBZ8MVKXHqYvHOUcbEM6cnyG-gRWh7gtZAw7Cqh0FBuVCikLqVgNgxIU9CJ-IqZX85b_TJ0aSNfySYG4AJMUSpT0IyhT7aj9Xc7W9bTS5ji3blixZC1Nz7WTNrY</Registration_id>
+    <Model_no>SamsungGTI9500</Model_no>
+    <Created_date>11/15/2014 4:04:05 PM</Created_date>
+    <Modified_date />
+    <isActive>1</isActive>
+    <Description />
+    <IsConnected>0</IsConnected>
+    <StartTime> 16:05:13 PM</StartTime>
+    <CloseTime> 16:05:13 PM</CloseTime>
+    <ResponseTime>0:0:0</ResponseTime>
+  </Comments>
+  <Comments>
+    <Device_id>355136054174415</Device_id>
+    <Registration_id>APA91bFk3UkvUrp30t0n_WlV-H6jPq2yuDWk7vTqF_ErTAgXhkkxVzkHH00BsIA6KaEjT7bTDbSh8lqB4eW1tb1jRK2woomzWZRfsA0E2k9KMEyqxRs1917qlwjVLHUESbnCP61R9BX3ZFaKYfaziFoJcSdoB8NvzmBVoiPe7SLCY-eCdxPlfDQ</Registration_id>
+    <Model_no>LGENexus4</Model_no>
+    <Created_date>11/16/2014 5:10:29 PM</Created_date>
+    <Modified_date>
+    </Modified_date>
+    <isActive>1</isActive>
+    <Description>
+    </Description>
+    <IsConnected>0</IsConnected>
+    <StartTime>5:10 PM</StartTime>
+    <CloseTime> 12:41:47 p.m.</CloseTime>
+    <ResponseTime>0:0:8</ResponseTime>
+  </Comments>
+</SignalR>

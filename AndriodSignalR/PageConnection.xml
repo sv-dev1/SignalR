@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<Pageconnection>
+  <Comments>
+    <DeskDevice_id>0001</DeskDevice_id>
+    <AndroidDevice_id>ANDROID457777</AndroidDevice_id>
+    <PageNumber>0</PageNumber>
+  </Comments>
+  <Comments>
+    <DeskDevice_id>15070750</DeskDevice_id>
+    <AndroidDevice_id>ANDROID911328301432012</AndroidDevice_id>
+    <PageNumber>0</PageNumber>
+  </Comments>
+  <Comments>
+    <DeskDevice_id>5645</DeskDevice_id>
+    <AndroidDevice_id>6565456456</AndroidDevice_id>
+    <PageNumber>0</PageNumber>
+  </Comments>
+  <Comments>
+    <DeskDevice_id />
+    <AndroidDevice_id />
+    <PageNumber>1</PageNumber>
+  </Comments>
+  <Comments>
+    <DeskDevice_id>23434343</DeskDevice_id>
+    <AndroidDevice_id>3434543543</AndroidDevice_id>
+    <PageNumber>0</PageNumber>
+  </Comments>
+</Pageconnection>

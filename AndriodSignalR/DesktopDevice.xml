@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<Desktop>
+  <Comments>
+    <Device_id>0001</Device_id>
+    <Created_date>12/2/2014 10:57:08 AM</Created_date>
+    <Description />
+    <IsConnected>0</IsConnected>
+    <StartTime>10:57 AM</StartTime>
+    <CloseTime>10:59 AM</CloseTime>
+  </Comments>
+  <Comments>
+    <Device_id>0002</Device_id>
+    <Created_date>12/12/2014 6:33:06 PM</Created_date>
+    <Description />
+    <IsConnected>0</IsConnected>
+    <StartTime>6:33 PM</StartTime>
+    <CloseTime>6:45 PM</CloseTime>
+  </Comments>
+</Desktop>

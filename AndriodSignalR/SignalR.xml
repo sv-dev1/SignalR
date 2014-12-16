@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<SignalR>
+  <Comments>
+    <Device_id>ANDROID357196059530050</Device_id>
+    <Registration_id>APA91bFE78VIvwcN0cSULSBrlODVtMcQoVwo9QFD6mT2xTKC_ZwSk_sv6ennbBZ8MVKXHqYvHOUcbEM6cnyG-gRWh7gtZAw7Cqh0FBuVCikLqVgNgxIU9CJ-IqZX85b_TJ0aSNfySYG4AJMUSpT0IyhT7aj9Xc7W9bTS5ji3blixZC1Nz7WTNrY</Registration_id>
+    <Model_no>SamsungGTI9500</Model_no>
+    <Created_date>12/3/2014 6:35:25 PM</Created_date>
+    <Modified_date />
+    <isActive>1</isActive>
+    <Description />
+    <IsConnected>0</IsConnected>
+    <StartTime>6:35 PM</StartTime>
+    <CloseTime> 18:36:57 PM</CloseTime>
+    <ResponseTime>0:0:4</ResponseTime>
+  </Comments>
+  <Comments>
+    <Device_id>ANDROID356631054585049</Device_id>
+    <Registration_id>APA91bHA9XCsoEMzVSFADTb1Ag7TeCwRVVminm9Lb_jCNUNhch80wJD5zcNLmbOK5sujg2fwHVqCuFlc54y3dUniwYY6VMvHfmtq5g8vByh49h-TCTLghbNNTQFi-alrHIbHywkUScTZ_HNzN8410cDeqgT02nZ1m2F2hajrbr28-UW3tstgloo</Registration_id>
+    <Model_no>SamsungGTI9082</Model_no>
+    <Created_date>12/4/2014 5:48:43 PM</Created_date>
+    <Modified_date />
+    <isActive>1</isActive>
+    <Description />
+    <IsConnected>0</IsConnected>
+    <StartTime>5:48 PM</StartTime>
+    <CloseTime> 17:50:28 PM</CloseTime>
+    <ResponseTime>0:0:34</ResponseTime>
+  </Comments>
+  <Comments>
+    <Device_id>ANDROID358714058727110</Device_id>
+    <Registration_id>APA91bGbS8832ghQA3XmIn4Ci8nhDaeuAmsGcknygKGsgbYqkQh2P-_PPuAhv949FPgFdL1EsXnhIX7gpcylgP9iQjmDcX1JKGLJmKqLfnXLxxT9y6OvV-dPykMeTbFA9N1sUWMsNP-n-RvPTIgyLGgVkNCGRX4TBwfO6Ncsw6C1JGTabazUekY</Registration_id>
+    <Model_no>HTCOne_M8</Model_no>
+    <Created_date>12/7/2014 1:36:14 PM</Created_date>
+    <Modified_date />
+    <isActive>1</isActive>
+    <Description />
+    <IsConnected>0</IsConnected>
+    <StartTime>1:36 PM</StartTime>
+    <CloseTime> 08:07:49 AM</CloseTime>
+    <ResponseTime>0:0:3</ResponseTime>
+  </Comments>
+  <Comments>
+    <Device_id>ANDROID911328301432012</Device_id>
+    <Registration_id>APA91bGehQkZfI9wH8b0dAGEaPiOQZGJb1bPJBMuf7GbiQwykxFqjXVKvT14Cs0PtXnsFSsjq50eSUqLbGLOHObkaVS3jd-UYKB1_khdw0ielfDtRELCsXS8GduSrIPsqyxDNwi0F1GI5f_kyDIAtx23LzcuBbH2aMdo10LTi0NxygwoOCdZxtI</Registration_id>
+    <Model_no>LAVAIRIS402</Model_no>
+    <Created_date>12/8/2014 11:52:57 AM</Created_date>
+    <Modified_date />
+    <isActive>1</isActive>
+    <Description />
+    <IsConnected>1</IsConnected>
+    <StartTime>11:52 AM</StartTime>
+    <CloseTime />
+    <ResponseTime />
+  </Comments>
+  <Comments>
+    <Device_id>ANDROIDa295668cf7ac6b5f</Device_id>
+    <Registration_id>APA91bENd-WqjN8B3KOc8N_nyzSA18DIljdX19N6yaDCRvDdHsG9icx7cf8jJjtZZ6Nv_jUc7OlOZXH_fg0wFuRkwSMsvokVxgbtKET4aJoP13NIWgT_Ps7vi8qPLwFLGkcwlT-DCZ0Be0lbv-2L3icc4GBX1VqaMQOGhqVDof9QaxAEz2lXRg8</Registration_id>
+    <Model_no>SamsungSMP600</Model_no>
+    <Created_date>12/11/2014 4:59:48 PM</Created_date>
+    <Modified_date />
+    <isActive>1</isActive>
+    <Description />
+    <IsConnected>1</IsConnected>
+    <StartTime>4:59 PM</StartTime>
+    <CloseTime />
+    <ResponseTime />
+  </Comments>
+  <Comments>
+    <Device_id>ANDROID865317022747580</Device_id>
+    <Registration_id>APA91bEKAKyNHfjUq0W5ivljiSEDdasYTRL7ROyRnxvoeyUtWc-HV9iEhdKy1ysbY6urf5iMuW__539u3wOQTtwKbAYt6xo2tF4N-qwmZT9_3oqBipBCtnNCmpnOz22enOnsR75mP3f-hfuQWc8aOPLvlOI9PUdHj919b0WyVDmWryIQnln8QCk</Registration_id>
+    <Model_no>XiaomiHM1SW</Model_no>
+    <Created_date>12/11/2014 6:45:21 PM</Created_date>
+    <Modified_date />
+    <isActive>1</isActive>
+    <Description />
+    <IsConnected>1</IsConnected>
+    <StartTime> 18:48:19 PM</StartTime>
+    <CloseTime />
+    <ResponseTime />
+  </Comments>
+</SignalR>

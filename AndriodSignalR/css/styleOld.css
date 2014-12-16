@@ -1,0 +1,134 @@
+﻿.left-area{
+    float:left;
+    width:23%;
+    padding:1%;
+    background:#e0e0e0;
+}
+.box-Div{
+    float:left;
+    width:98%;
+    padding:5px 1%;
+    margin:5px 0;
+    border:solid 1px #5a5655;
+    text-align:left;
+}
+.white_area {
+      background: #fff;
+      float:left;
+      width:98%;
+      padding:1%;
+ }
+.box-Div h4{
+    background:#ccc;
+    padding:5px 0;
+    margin:0;
+}
+.box-Div.strong-bg{
+    font-weight:bold;
+    background:#a5a5a5;
+    color:#fff;
+}
+.row_div{
+    float:left;
+    width:100%;
+    margin:2px 0;
+}
+.lft{
+    float:left;
+}
+.rht{
+    float:right;
+}
+.right-area{
+    float:right;
+    width:73%;
+    height: 430px;
+    overflow-y: scroll;
+    padding:1%;
+      background-color: #fff;
+}
+.icons_list{
+    float:left;
+    width:100%;
+    margin:0;
+    padding:0 0 0 5px;
+}
+.icons_list li {
+     background:url(/images/circle.png) no-repeat 2px;
+     list-style-type:none;
+     text-align:left;
+     padding-left:20px;
+}
+.buttonFinish.buttonDisabled {
+    display: none;
+}
+.buttonPrevious.buttonDisabled{
+    float:left;
+}
+.warning {
+  background-color: #ffefeb;
+    border: 3px solid #ea8511;
+    float: left;
+    height: 86px;
+    padding: 9px 13px 6px;
+    text-align: justify;
+    width: 99%;
+}
+
+.right_top_heading {
+font: bold 16px Verdana,Arial,Helvetica,sans-serif;
+}
+
+.emailinput {
+    float: left;
+    padding: 9px 13px 6px;
+    width: 96%;
+}
+
+.activeButton
+{
+     background-color: red;
+    color: #fff;
+    display:none;
+}
+
+.pagebutton {
+  background-color: #5a5655;
+    border: 1px solid #5a5655;
+    color: #fff;
+    display: block;
+    font: bold 13px Verdana,Arial,Helvetica,sans-serif;
+    margin: 5px 3px 0;
+    outline-style: none;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    width: 98%;
+}
+.pdf_list {
+    list-style-type: none;
+    margin-left: 13px;
+    width: 304px;
+}
+.pdf_list > li {
+   background-image: url("Images/pdficon.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    padding-bottom: 18px;
+    padding-left: 19px;
+    padding-top: 10px;
+}
+
+.dd-select,.dd-container {
+width:564px !important;
+
+}
+.Pageconnected{
+    background:url(/images/fade_tick.png) 8px 30px no-repeat !important;
+}
+.PageVisited{
+    background:url(/images/tick.png) 8px 30px no-repeat !important;
+}
+.PagePrint {
+     background:url(/images/Print.png) 8px 30px no-repeat !important;
+}

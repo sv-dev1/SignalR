@@ -1,0 +1,247 @@
+*{padding:0;margin:0;}
+body{background:#fe0000;font-family: 'Roboto', sans-serif;}
+.clear{clear:both;}
+.inr_wrpr{width:672px; margin:0 auto;text-align:center;padding:200px 0 68px 0;}
+.inr_wrpr h1{color:#fff;font-size:25px;font-weight:normal; }
+.logo_tab{width:100%;margin:0 auto;padding-top:198px;padding-bottom:334px;}
+.logo_tab img{width:100%;}
+.belowarea_tab{width:100%;float:left;}
+.belowarea_tab p {
+  color: #fff;
+  float: right;
+  font-size: 14px;
+  text-align: right;
+  width: 100%;
+}
+.belowarea_tab > img {
+  float: right;
+  margin-top:20px;
+  width:60%;
+}
+.inr_wrpr a {
+  background: none repeat scroll 0 0 #454545;
+  border: medium none;
+  box-shadow: 0 3px 2px #000;
+  color: #fff;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 75px 25%;
+  padding: 12px 5%;
+  float:left;
+  width:40%;
+  text-decoration:none;
+}
+.logo_tab.notp {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.logo_tab.notp.notp1 {
+  padding-top: 0;
+}
+.inr_wrpr.notp2 {
+  padding-top: 109px;
+}
+.tab_icon{width:100%;float:left;text-align:center; padding:115px 0;}
+.tab_textarea {
+  color: #fff;
+  float: left;
+  font-size: 60px;
+  width: 100%;
+  font-weight:300;
+}
+.top242{margin-top:242px;}
+.tab_footer {
+  background: none repeat scroll 0 0 #f1f1f1;
+  float: left;
+  padding:10px 0;
+  
+  width: 100%;
+}
+.ft_lft {
+  color: #404040;
+  float: left;
+  font-size: 14px;
+  width:50%;
+}
+.ft_ryt {
+  color: #404040;
+  float: right;
+  font-size: 14px;
+  font-weight: bold;
+  width:50%;
+}
+.ft_ryt > img {
+  padding-right: 4px;
+  vertical-align: middle;
+}
+.green{color:#79ba00;}
+.ftr_wrpr {
+  margin:0 auto;
+  width: 85%;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 980px) 
+{
+.inr_wrpr h1{
+	font-size:50px;
+}
+.belowarea_tab p{
+	font-size:20px;
+}
+.ft_lft, .ft_ryt {
+	font-size:20px;
+}
+.inr_wrpr a{
+	width:30%;
+	margin:120px 30%;
+}
+.logo_tab{
+	padding-top:140px;
+}
+.logo_tab.notp{
+	padding-top:100px;
+}
+
+	
+}
+
+@media only screen and (min-width: 560px) and (max-width: 767px) 
+{
+	.inr_wrpr{width:500px;}
+	.tab_textarea{font-size:35px;}
+    .ft_lft, .ft_ryt {
+        font-size:14px;
+    }
+}
+@media only screen and (min-width: 460px) and (max-width: 559px) {
+    .inr_wrpr {
+        width: 410px;
+    }
+
+    .tab_textarea {
+        font-size: 30px;
+    }
+
+   .left_align, .right_align {
+  font-size: 13px;
+}
+    .inr_wrpr {
+        padding: 120px 0 68px;
+    }
+
+    .logo_tab {
+        padding: 100px 0;
+    }
+	
+	/*.tab_footer{
+		position:absolute;
+		bottom:0;
+	}
+	.belowarea_tab {
+    bottom: 15%;
+    float: left;
+    position: absolute;
+    right: 10%;
+    width: 100%;
+}*/
+}
+
+   
+
+    @media only screen and (min-width: 320px) and (max-width: 459px) 
+    {
+        .inr_wrpr {
+            width: 260px;
+            padding:70px 0 68px;
+        }
+
+        .tab_textarea {
+            font-size: 25px;
+        }
+
+        .left_align, .right_align {
+            font-size: 12px;
+        }
+
+        .inr_wrpr {
+            padding: 120px 0 50px;
+        }
+
+        .logo_tab {
+            padding: 50px 0;
+        }
+        .ft_lft, .ft_ryt {
+            /*width:100%;*/
+        }
+        .ft_ryt {
+            padding-top:8px;
+        }
+		.ft_ryt > img{
+			width:15px;
+		}
+	 .inr_wrpr h1{
+		 font-size:25px;
+	 }
+	 .logo_tab.notp {
+		 padding-top:100px;
+	}
+	.tab_footer{
+		position:absolute;
+		bottom:0;
+	}
+	.belowarea_tab {
+    bottom: 15%;
+    float: left;
+    position: absolute;
+    right: 10%;
+    width: 100%;
+}
+	 
+    }
+
+     @media only screen and (min-width:260px ) and (max-width: 319px) 
+    {
+        .inr_wrpr {
+            width: 210px;
+            padding:70px 0 68px;
+        }
+
+        .tab_textarea {
+            font-size: 30px;
+        }
+
+        .left_align, .right_align {
+            font-size: 12px;
+        }
+
+        .inr_wrpr {
+            padding: 120px 0 68px;
+        }
+
+        .logo_tab {
+            padding: 50px 0;
+        }
+        /*.ft_lft, .ft_ryt {
+            width:100%;
+        }
+        .ft_ryt {
+            padding-top:8px;
+        }*/
+.ft_ryt > img{
+	width:15px;
+}
+.tab_footer{
+		position:absolute;
+		bottom:0;
+	}
+	.belowarea_tab {
+    bottom: 15%;
+    float: left;
+    position: absolute;
+    right: 10%;
+    width: 100%;
+}
+       
+
+    }
